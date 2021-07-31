@@ -1,2 +1,2 @@
-# Curso Origamid
- Curso Flexbox da Origamid
+# Curso origamid
+ HTML-CSS-FLEXBOX da origamid
